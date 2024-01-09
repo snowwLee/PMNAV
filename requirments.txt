@@ -8,3 +8,4 @@ streamlit-folium
 random
 deque
 datetime
+streamlit_folium 
