@@ -1,9 +1,7 @@
-from pathlib import Path
-path = Path(__file__).parent.resolve()
 import streamlit as st
 import random
 import numpy as np
-from streamlit_folium import folium_static
+#from streamlit_folium import folium_static
 import pandas as pd
 from haversine import haversine
 from collections import deque
