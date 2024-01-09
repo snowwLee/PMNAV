@@ -2,10 +2,10 @@
 import streamlit as st
 import random
 import numpy as np
-from streamlit_folium import st_folium
+from streamlit_folium
 import pandas as pd
-from haversine import haversine
-from collections import deque
+from haversine 
+from collections 
 import datetime
 
 
