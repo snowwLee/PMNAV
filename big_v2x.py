@@ -1,4 +1,5 @@
-
+from pathlib import Path
+path = Path(__file__).parent.resolve()
 import streamlit as st
 import random
 import numpy as np
