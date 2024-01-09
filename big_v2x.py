@@ -1,15 +1,10 @@
 import streamlit as st
 import random
-import matplotlib.pyplot as plt
 import numpy as np
 from streamlit_folium import st_folium
-from streamlit_folium import folium_static
-import streamlit as st
-import random
 import pandas as pd
 from haversine import haversine
 from collections import deque
-from streamlit_folium import folium_static
 import datetime
 
 
