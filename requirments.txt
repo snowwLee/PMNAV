@@ -2,8 +2,6 @@ haversine
 random
 deque
 datetime
-streamlit_folium 
-st_folium
 streamlit==1.28.2
 folium==0.15.1
 pandas==1.5.3
