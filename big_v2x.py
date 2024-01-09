@@ -4,8 +4,8 @@ import random
 import numpy as np
 from streamlit_folium import folium_static
 import pandas as pd
-from haversine 
-from collections 
+from haversine import haversine
+from collections import deque
 import datetime
 
 
